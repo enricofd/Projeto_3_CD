@@ -2,4 +2,4 @@
 
 Analise exploratoria feita nos jupyters:
 
-projeto 3 - Scatter com alpha e montagem da tabela;
+P3_jupyter - Scatter com alpha e montagem da tabela;
